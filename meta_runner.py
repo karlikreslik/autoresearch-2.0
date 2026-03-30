@@ -2,10 +2,9 @@
 """
 meta_runner.py — autoresearch 2.0
 
-Spouštěč Meta-researchera (Agent 2). Voláno automaticky Researcherem (Agent 1)
-každých N experimentů, nebo ručně uživatelem.
+Meta-Researcher Trigger (Agent 2). Called automatically by Agent 1 every N experiments, or manually by the user.
 
-Použití:
+Use:
     python meta_runner.py --results results.tsv --program program.md --hypothesis hypothesis_log.md
     python meta_runner.py --results results.tsv --program program.md --hypothesis hypothesis_log.md --dry-run
     python meta_runner.py --results results.tsv --program program.md --hypothesis hypothesis_log.md --force
