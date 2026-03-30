@@ -152,4 +152,4 @@ create a new version. An empty revision is better than a noisy one.
 
 ## Footer
 
-meta_program.md v1.0 | autoresearch 2.0 | © 2026
+meta_program.md v1.0 | autoresearch 2.0 | 2026
