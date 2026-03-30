@@ -221,4 +221,4 @@ the current `program.md`. Never let meta-researcher failure block research.
 
 ## Footer
 
-program.md v2.0 | autoresearch 2.0 | © 2026
+program.md v2.0 | autoresearch 2.0 | 2026
