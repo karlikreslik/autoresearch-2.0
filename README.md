@@ -1,4 +1,6 @@
-# autoresearch 2.0
+# autoresearch 2.0 — the researcher now has a manager. The manager is also an AI
+
+Does an archetype write the Matrix, or just a glitchy beta version? Unaccelerated by design. 🥟 Running strictly on CPU, because true reality doesn't need a frame rate.
 
 An extension of [Karpathy's autoresearch](https://github.com/karpathy/autoresearch) with a
 meta-research loop — the system now learns how to research, not just what to try.
